@@ -1,4 +1,4 @@
-//week05-2 好玩的程式設計
+//week05-2 好玩的程式設計 兩層for(迴圈)配合 if.. else if.. else
 //Ctrl-N 開新視窗
 void setup() { 
   size(800, 500);
